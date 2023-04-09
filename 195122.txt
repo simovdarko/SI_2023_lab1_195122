@@ -1,0 +1,26 @@
+5.git init - povrzuvanje so RemoteRepo
+6. iskoristena git komanda git add README.md i git commit -m "Initial commit" so koja ja dodadov datotekata README i ja 
+commit.
+7. Iskoristeni komandi git add i git commit so koja go dodadov fajl SILab1.java i go commit
+8. Iskoristena komanda git push origin master - so koja go sinhronizirav so RemoteRepo
+9. Iskoristeni komandi git branch za bug1,bug2,bug3 - so koja kreirav 3 branches 
+10. Iskoristena komanda git checkout bug1- so koja se prefrliv na branch bug1
+11. Iskoristena git komanda git commit -am "Fix wrong loop for reading" - add i commit na bug1
+12. Iskoristena git checkout bug 2- prefrluvanje do branch bug2
+13. Iskoristena git commit -am "Fix wrong condition in filterOddNumbers" - add i commit na bug2
+14. git checkout bug3- prefrluvanje na bug3 branch
+15. git commit -am "Fix method sumEvenNumbers" - add i commit na branch3
+16. git push origin --all - sinhronizacija na site granki so RemoteRepo
+17. git checkout master - prefrluvanje do branch master
+18. git merge bug1 - spojuvanje na bug1 so master so fast forward bez konflikt
+19. git push origin master - sinhronizacija so RemoteRepo 
+20. git merge bug2 - spojuvane na bug2 so master so rekurziv 
+21. git push origin master - sinhronizacija so RemoteRepo
+22. git checkout bug3- prefrluvanje do branch bug3
+23. git rebase master - napravena rebase na master 
+24. git checkout master - prefrluvanje na master branch
+25. git merge bug3 - spojuvanje na branch bug 3 so branch master so fast forward
+26. git push origin master - sinhronizacija so RemoteRepo
+27. nano logs.txt i so git log gi zemav site commit i nano 195122.txt pravev dokumentacija na site cekori 
+i git commit -am "Final commit" gi add i commit .txt
+28. git push origin master - sinhronizacija so RemoteRepo

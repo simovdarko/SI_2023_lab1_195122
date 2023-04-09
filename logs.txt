@@ -1,0 +1,27 @@
+commit b538568df83aff6bd214427d2836744dc613ec6b (HEAD - master, originmaster, bug3)
+Author simovdarko marcor3us55555@gmail.com
+Date   Sun Apr 9 172214 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9682545fc3391d1aca4722e3c84b6f80ee784d30
+Merge 6cba8ae b2128a8
+Author simovdarko marcor3us55555@gmail.com
+Date   Sun Apr 9 172700 2023 +0200
+
+    Merge branch 'bug2'
+
+commit b2128a8e74a4fb438f58b95c7b15f36d06f892e4 (originbug2, bug2)
+Author simovdarko marcor3us55555@gmail.com
+Date   Sun Apr 9 172103 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 6cba8ae3ac8904a9157be5f121f103ca49415e79 (originbug1, bug1)
+Author simovdarko marcor3us55555@gmail.com
+Date   Sun Apr 9 171924 2023 +0200
+
+    Fix wrong loop for reading
+
+commit bc1cd4ecbd9fb77bed91597a4dcdbe2141cfc03b
+Author simovdarko marcor3us55555@gmail.com
